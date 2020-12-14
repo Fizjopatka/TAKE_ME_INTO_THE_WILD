@@ -1,7 +1,7 @@
 const warsawForest = [
     {
         name: 'Kampinoski Park Narodowy',
-        description: 'Polski park narodowy utworzony w 1959 roku w województwie warszawskim[3] (obecnie województwo mazowieckie). Obejmuje tereny Puszczy Kampinoskiej w pradolinie Wisły, w zachodniej części Kotliny Warszawskiej.',
+        description: 'Polski park narodowy utworzony w 1959 roku w województwie warszawskim (obecnie województwo mazowieckie). Obejmuje tereny Puszczy Kampinoskiej w pradolinie Wisły, w zachodniej części Kotliny Warszawskiej.',
         urlname: 'kampinoski%20park%20narodowy'
     },
     {
